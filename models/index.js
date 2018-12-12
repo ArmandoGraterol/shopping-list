@@ -1,5 +1,6 @@
 const Sequelize = require('sequelize');
 
+// Put db name, username and passsword in the parameters
 const sequelize = new Sequelize('database name', 'username', 'password', {
   dialect: 'postgres',
 });

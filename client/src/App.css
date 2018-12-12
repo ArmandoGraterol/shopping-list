@@ -2,6 +2,7 @@
   margin-right: 0.5rem;
 }
 
+/* Animations for items added and removed */
 .fade-enter {
   opacity: 0.01;
 } 
